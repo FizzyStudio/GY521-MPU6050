@@ -1,0 +1,10 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~D:\svn\products\SENE001_MPU6050\pcb\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~13|ReportField=ReportTime~21:24:08|ReportField=ReportDate~2017/6/8|ReportField=ReportDateTime~2017/6/8 21:24:08|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/6/8|ReportField=CurrentTime~21:21:06|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\svn\products\SENE001_MPU6050\pcb\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/4/13|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~D:\svn\products\SENE001_MPU6050\pcb\PCB_Project1.PrjPCB
+3.3V  LDO|||SOT235|3.3V  LDO|1
+Component_1|||MPU6050|Component_1|1
+4.7u|SMD-CAP|C3|1608[0603]|CAP-0.1UF|1
+10u|SMD-CAP|C10|3.2X1.6X1.1|CAP-0.1UF|1
+0.1u|SMD-CAP|C11, C12, C13|1608[0603]|CAP-0.1UF|3
+2200p|SMD-CAP|C14|1608[0603]|CAP-0.1UF|1
+CON1|Header, 4-Pin|J1|SH-3|Header 4|1
+CON2|Header, 4-Pin|J2|SH-3|Header 4|1
+4.7K|Resistor|R4, R5, R6|1608[0603]|Res1|3

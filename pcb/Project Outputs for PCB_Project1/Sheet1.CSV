@@ -1,0 +1,14 @@
+"Bill of Material for "
+"On 2017/6/8 at 21:01:14"
+
+"Comment","Pattern","Quantity","Components"
+
+"0.1u","1608[0603]","3","C11, C12, C13","SMD-CAP"
+"10u","3.2X1.6X1.1","1","C10","SMD-CAP"
+"2200p","1608[0603]","1","C14","SMD-CAP"
+"3.3V  LDO","SOT235","1","*",""
+"4.7K","1608[0603]","3","R4, R5, R6","Resistor"
+"4.7u","1608[0603]","1","C3","SMD-CAP"
+"Component_1","MPU6050","1","*",""
+"CON1","SH-3","1","J1","Header, 4-Pin"
+"CON2","SH-3","1","J2","Header, 4-Pin"
